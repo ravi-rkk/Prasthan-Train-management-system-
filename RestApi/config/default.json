@@ -1,0 +1,9 @@
+{
+    "host"    : "localhost",
+    "user"     : "W1_87346_Ravilesh",
+    "password" : "manager",
+    "dbname" : "prasthan",
+    "port": 3306,
+    "httpport": 9998
+
+}
