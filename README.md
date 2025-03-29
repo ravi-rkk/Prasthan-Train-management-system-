@@ -60,5 +60,4 @@ Ensure you have the following installed:
 - User authentication and profile management.
 - Live train tracking system.
 
-## License
-This project is licensed under the MIT License.
+
